@@ -63,6 +63,8 @@ Please notify us of your student’s absence by emailing us at btreecode@gmail.c
 
 ***If your student needs to be absent for more than three weeks, we would need to be notified at least 7 days prior to the class.*** Then, we will freeze your account. When your student returns, we will determine if he or she needs to take private supplementary sessions to learn all of the missed material before coming back to his or her regular class. 
 
+---
+
 # Tuition Payment Policy
 
 We send a monthly tuition statement in the last week of each month for the following month. The monthly payment is due by the first class of each month. If payments are not made by the first week, it may result in a forfeit of your student’s position in the class. Tuition is non-refundable. 
