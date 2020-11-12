@@ -10,14 +10,14 @@ If you have any questions or concerns, please email us at btreecode@gmail.com
 
 
 
-# Communication between parents and Btree Code Academy
+## Communication between parents and Btree Code Academy
 
-## A. Parent Portal
+### A. Parent Portal
 
 The parent portal is our way of being transparent about your student’s progress.
 ***We would like to encourage parents to log on to our parent portal every week after each session because it is important to know how your student performs in the class, what curriculum your student learns, and whether your student submits homework assignments every week.***
 
-## B. Email Communication
+### B. Email Communication
 
 ***Email communication is our primary method to communicate with parents.***
 Please be sure to check your email regularly so you do not miss any important information related to your student’s progress, class schedule change, recent updates, etc.
