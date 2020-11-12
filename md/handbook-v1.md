@@ -5,7 +5,7 @@ Welcome to BTree Code Academy
 
 Our mission is to help our students to develop a deep and life-long foundation of computer science so that they can learn to think critically, logically, and creatively while welcoming any challenges.
 
-If you have any questions or concerns, please email us at btreecode@gmail.com
+If you have any questions or concerns, please email us at ***btreecode@gmail.com***
 
 
 
