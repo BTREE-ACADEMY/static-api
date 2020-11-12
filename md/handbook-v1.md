@@ -1,7 +1,8 @@
 # Parent Handbook
 
 
-Welcome to BTree Code Academy
+Welcome to BTree Code Academy pARENT portal! 
+We teach ***a complete computer science curriculum for beginner students to advanced students.*** Students will have the option to choose from courses such as Scratch, Python, Java, Web/App development, Game development, and AP CS A. Our most advanced students can move to our competition course for the annual USACO Olympiad competition in addition to Google Kick Start and the High School Programming Contest (HSPC). 
 
 Our mission is to help our students to develop a deep and life-long foundation of computer science so that they can learn to think critically, logically, and creatively while welcoming any challenges.
 
