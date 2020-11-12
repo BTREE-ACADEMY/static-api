@@ -20,6 +20,8 @@ The parent portal is our way of being transparent about your student’s progres
 ***Email communication is our primary method to communicate with parents.***
 Please be sure to check your email regularly so you do not miss any important information related to your student’s progress, class schedule change, recent updates, etc.
 
+---
+
 
 # Importance of Homework 
 
@@ -41,6 +43,9 @@ homework was turned in on time and is satisfactory to the instructor.
 Homework was turned in on time and it shows effort and great quality.
 
 * If a student misses homework for three weeks consecutively and he or she is not keeping up with the class, we will contact you to determine if additional support may be necessary. Otherwise, there is no need to raise a concern but please use it to verify that your student is doing his or her homework to a satisfactory extent. 
+
+---
+
 
 # Absent Policy
 
@@ -79,6 +84,8 @@ We send a monthly tuition statement in the last week of each month for the follo
 ## Sibling Discount 
 
 We offer a sibling discount. Your second student will get 10% off of their tuition. However, when both siblings take the same online class, the younger sibling will get 30% off from their tuition. 
+
+---
 
 
 # Withdrawal Policy
