@@ -1,10 +1,12 @@
 # Parent Handbook
 
+
 Welcome to BTree Code Academy
 
 Our mission is to help our students to develop a deep and life-long foundation of computer science so that they can learn to think critically, logically, and creatively while welcoming any challenges.
 
 ---
+
 
 # Communication between parents and Btree Code Academy
 
@@ -17,6 +19,7 @@ The parent portal is our way of being transparent about your student’s progres
 
 ***Email communication is our primary method to communicate with parents.***
 Please be sure to check your email regularly so you do not miss any important information related to your student’s progress, class schedule change, recent updates, etc.
+
 
 # Importance of Homework 
 
@@ -64,16 +67,17 @@ Please notify us of your student’s absence by emailing us at btreecode@gmail.c
 
 We send a monthly tuition statement in the last week of each month for the following month. The monthly payment is due by the first class of each month. If payments are not made by the first week, it may result in a forfeit of your student’s position in the class. Tuition is non-refundable. 
 
-### A) Forms of Tuition Payment Accepted
+## Forms of Tuition Payment Accepted 
 
 -  Check (Payable to Btree Code Academy)
 -  Venmo (Account: @btreecode | last 4 digits of Phone Number: 9102)
 -  Zelle (Email address: btreecode@gmail.com)
 -  Bank Transfer
 
-### Sibling Discount
+## Sibling Discount 
 
 We offer a sibling discount. Your second student will get 10% off of their tuition. However, when both siblings take the same online class, the younger sibling will get 30% off from their tuition. 
+
 
 # Withdrawal Policy
 
