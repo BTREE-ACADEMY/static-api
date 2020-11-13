@@ -23,6 +23,7 @@ Please be sure to check your email regularly so you do not miss any important in
 
 
 
+
 ---
 
 
@@ -47,6 +48,9 @@ homework was turned in on time and is satisfactory to the instructor.
 Homework was turned in on time and it shows effort and great quality.
 
 * If a student misses homework for three weeks consecutively and he or she is not keeping up with the class, we will contact you to determine if additional support may be necessary. Otherwise, there is no need to raise a concern but please use it to verify that your student is doing his or her homework to a satisfactory extent. 
+
+
+
 
 ---
 
@@ -73,6 +77,9 @@ Please notify us of your student’s absence by emailing us at btreecode@gmail.c
 
 ***If your student needs to be absent for more than three weeks, we would need to be notified at least 7 days prior to the class.*** Then, we will freeze your account. When your student returns, we will determine if he or she needs to take private supplementary sessions to learn all of the missed material before coming back to his or her regular class. 
 
+
+
+
 ---
 
 
@@ -91,6 +98,9 @@ We send a monthly tuition statement in the last week of each month for the follo
 ### Sibling Discount 
 
 We offer a sibling discount. Your second student will get 10% off of their tuition. However, when both siblings take the same online class, the younger sibling will get 30% off from their tuition. 
+
+
+
 
 ---
 
