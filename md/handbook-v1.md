@@ -21,6 +21,8 @@ The parent portal is our way of being transparent about your student’s progres
 ***Email communication is our primary method to communicate with parents.***
 Please be sure to check your email regularly so you do not miss any important information related to your student’s progress, class schedule change, recent updates, etc.
 
+
+
 ---
 
 
