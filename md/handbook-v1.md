@@ -60,7 +60,7 @@ Homework was turned in on time and it shows effort and great quality.
 
 ### Group Class Absent Policy
 
-**Makeup Packet: Attendance plays a critical role in learning code. Therefore, there will be no refund for a missed class. Instead, we will provide a makeup packet that consists of lecture slides, videos, written instructions, and exercises.** 
+***Makeup Packet: Attendance plays a critical role in learning code. Therefore, there will be no refund for a missed class. Instead, we will provide a makeup packet that consists of lecture slides, videos, written instructions, and exercises.***
 Please understand that preparing a makeup packet takes our effort and time and it is a way for us to support absentees. Because when we make it, we make sure that it’s detailed enough for absentees to work on the missed material on their own with ease. 
 
 However, If there is a class with the same level and progress as the missed class, a student may take the class instead of receiving the makeup packet. 
