@@ -65,7 +65,7 @@ Please understand that preparing a makeup packet takes our effort and time and i
 
 However, If there is a class with the same level and progress as the missed class, a student may take the class instead of receiving the makeup packet. 
 
-**Absent Notice:**  We still need to be notified of a student’s absence from parents at least 24 hours prior to the class time as it allows us to prepare a makeup packet properly. To notify us of your student’s absence, please email us at btreecode@gmail.com or text us at 949.409.1341.
+**Absent Notice:**  ***We still need to be notified of a student’s absence from parents at least 24 hours prior to the class time as it allows us to prepare a makeup packet properly. To notify us of your student’s absence, please email us at btreecode@gmail.com or text us at 949.409.1341.***
 
 ### Private Class Absent Policy
 
